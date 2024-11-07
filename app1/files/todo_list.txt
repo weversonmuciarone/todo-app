@@ -1,4 +1,3 @@
-Update OS
 Clean the code
 Clean the program
 Create standards
