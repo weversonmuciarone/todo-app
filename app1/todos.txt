@@ -1,0 +1,3 @@
+Clean the code
+Update OS
+Upgrade the application
